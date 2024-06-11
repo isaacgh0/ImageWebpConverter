@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.jpg
+*.webp
+
+/output
+
+.DS_Store
